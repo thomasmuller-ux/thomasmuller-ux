@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <i>Thomás Müller</i></a>😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <i>Thomás Müller</i></h1>
 </div>
 <div align="center">
   <a href="https://github.com/thomasmuller-ux">
