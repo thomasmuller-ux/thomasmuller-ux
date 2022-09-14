@@ -1,6 +1,4 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <i>Thomás Müller</i></h1>
-</div>
+
 <div align="center">
   <a href="https://github.com/thomasmuller-ux">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thomasmuller-ux&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
